@@ -1,8 +1,5 @@
 # Hola soy José Ángel 👋
 
-[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://angelxescomx08.github.io/jose-angel-hdz-rda/)
-[![Facebook](https://www.freepik.com/free-icon/facebook-link_694830.html)](https://www.facebook.com/angelx105)
-
 ## Soy un estudiante, programador, interesado en el desarrollo web frontend y backend <3
 
 - 🌱 Con ganas de aprender de todo  
