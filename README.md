@@ -1,7 +1,7 @@
 ### Hola soy José Ángel 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://angelxescomx08.github.io/jose-angel-hdz-rda/)
-[![Twitter Follow](https://www.freepik.com/free-icon/facebook-link_694830.htm)](https://www.facebook.com/angelx105)
+[![Website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://angelxescomx08.github.io/jose-angel-hdz-rda/)
+[![Facebook](https://www.freepik.com/free-icon/facebook-link_694830.html)](https://www.facebook.com/angelx105)
 
 ## Soy un estudiante, programador, interesado en el desarrollo web frontend y backend <3
 
