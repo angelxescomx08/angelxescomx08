@@ -36,6 +36,9 @@
 
 [![Estadísticas de github](https://github-readme-stats.vercel.app/api?username=angelxescomx08)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=angelxescomx08)](https://github.com/angelxescomx08/github-readme-stats)
+
+
 
 [website]: https://angelxescomx08.github.io/jose-angel-hdz-rda/
 [facebook]: https://www.facebook.com/angelx105
